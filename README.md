@@ -1,69 +1,91 @@
-# 🤝 B2B Partnership App
+# 🤝 B2B Partnership Showcase
 
-A modern Flutter-based B2B networking platform that connects companies and clients, enabling seamless service listing, job posting, and business collaboration.
+A modern and user-friendly mobile application designed to connect businesses, service providers, and clients through a structured B2B marketplace experience. The app allows users to explore services, browse categories, submit requests, manage applications, and follow business opportunities in a clean and professional workflow.
 
----
+***
 
-## 📱 Overview
+## 👤 User Features
 
-B2B Partnership App is a scalable mobile application built using Flutter that enables businesses to:
+- Browse available business categories and service providers
+- Explore business details and partnership opportunities
+- Submit service requests or apply to relevant opportunities
+- Track request and application status
+- User-friendly and clean interface
+- Multi-language support (Localization)
 
-- Post and manage job opportunities
-- Browse and apply for services
-- Connect with potential partners
-- Manage business profiles efficiently
+***
 
-The app is designed with a strong focus on performance, scalability, and clean architecture principles.
+## 🛠️ Admin Features
 
----
+- Manage business categories and listings
+- Review incoming requests and applications
+- Approve, reject, or organize submissions
+- Manage workflow and platform content effectively
 
-## ✨ Features
+***
 
-### 👔 Business Features
-- Service listing and management
-- Job posting system for companies
-- Job application workflow
-- Business profile creation and management
+## 🔄 App Flow
 
-### ⚙️ Technical Features
-- Clean Architecture (Separation of concerns)
-- State Management using **Bloc / Cubit**
-- REST API integration
-- Pagination with optimized loading
-- Offline-friendly caching strategies
-- Responsive UI for mobile and tablet screens
+1. User browses available categories and services  
+2. User opens provider or business details  
+3. User submits a request or applies to an opportunity  
+4. Admin reviews the submitted data  
+5. User gets updated with the request or application status  
 
-### 🚀 Performance Improvements
-- Reduced loading time by ~35% using lazy loading and caching
-- Optimized widget rebuilds for smoother UI performance
-- Improved API response handling and data flow efficiency
+***
 
----
+**Key Features**
+- Auth (Login - Register - Reset Password - OTP Validation - Profile - Edit Profile)
+- Browse Categories and Business Listings
+- Provider / Company Details
+- Request Submission & Application Flow
+- Favorites / Saved Opportunities
+- Search and Filtering
+- Request Tracking and Status Updates
+- Push Notifications
+- Multi-language Support (Arabic & English)
+- Admin Content and Request Management
 
-## 🧱 Tech Stack
+***
 
-- Flutter (Dart)
-- Bloc / Cubit State Management
-- RESTful APIs
-- Shared Preferences
-- Firebase (Auth / optional backend services)
-- Git & GitHub
+## 🎨 App Screenshots
 
----
+### Authentication Screens
 
-## 🏗️ Architecture
+| #1 | #2 | #3 |
+| --- | --- | --- |
+|  |  |  |
 
-The project follows **Clean Architecture principles**:
+### Main App Screens
 
-- **Presentation Layer** → UI + State Management
-- **Domain Layer** → Business Logic
-- **Data Layer** → API calls, models, repositories
+| #1 | #2 | #3 | #4 | #5 | #6 |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
 
-This structure ensures:
-- Scalability
-- Maintainability
-- Testability
+### Settings & Profile Screens
 
----
+| #1 | #2 | #3 | #4 |
+| --- | --- | --- | --- |
+|  |  |  |  |
 
-## 📁 Project Structure
+***
+
+## 📱 Download the App
+
+| Platform    | Status | Link |
+|-------------|--------|------|
+| Google Play | **Live** 🚀 | <a href="https://play.google.com/store/apps/details?id=tiqniq.b2b.partnership.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
+| App Store   | **Live** 🚀 | <a href="https://apps.apple.com/eg/app/b2b-partnership/id6743262771?l=ar"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a> |
+
+***
+
+## 👨‍💻 About the Developer
+
+This project was developed by:  
+**Mohamed Abas Mahmoud** – Junior Flutter Developer
+
+[ [
+
+***
+
+_Thank you for your interest in the project! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mohamedAbasMahmoud) for any inquiries or potential collaborations._
