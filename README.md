@@ -6,68 +6,72 @@ A modern Flutter-based B2B marketplace application designed to connect businesse
 
 ## 👤 User Features
 
-- Browse business categories and service providers
-- Explore detailed business profiles and opportunities
-- Submit service requests or apply for opportunities
-- Track request and application status in real-time
-- Clean and responsive UI/UX experience
+- Browse business categories and service providers  
+- Explore detailed business profiles and opportunities  
+- Submit service requests or apply for opportunities  
+- Track request and application status in real-time  
+- Clean and responsive UI/UX  
 - Multi-language support (Arabic & English)
 
 ---
 
 ## 🛠️ Admin Features
 
-- Manage business categories and listings
-- Review incoming requests and applications
-- Approve, reject, or organize submissions
-- Control platform content and workflow efficiently
+- Manage business categories and listings  
+- Review incoming requests and applications  
+- Approve, reject, or organize submissions  
+- Control platform workflow efficiently  
 
 ---
 
 ## 🔄 App Flow
 
-1. User browses categories and available services  
-2. User opens business or provider details  
-3. User submits a request or application  
-4. Admin reviews and processes submission  
-5. User receives status updates in the app  
+1. User browses categories and services  
+2. User opens business/provider details  
+3. User submits request or application  
+4. Admin reviews submission  
+5. User receives status updates  
 
 ---
 
 ## ✨ Key Features
 
-- Authentication system (Login / Register / Reset Password / OTP Verification / Profile Management)
-- Business categories & listings browsing
-- Provider and company detailed pages
-- Request & application management system
-- Favorites / Saved opportunities
-- Search and filtering system
-- Real-time status tracking
-- Push notifications
-- Multi-language support (Arabic & English)
-- Admin dashboard for content and request management
+- Authentication (Login / Register / Reset Password / OTP / Profile Edit)  
+- Business listings & categories  
+- Provider/company details  
+- Request & application system  
+- Favorites system  
+- Search & filtering  
+- Status tracking  
+- Push notifications  
+- Multi-language support  
+- Admin management system  
 
 ---
 
 ## 🎨 App Screenshots
 
+> 📌 Screens from production version of B2B Partnership App
+
+---
+
 ### 🔐 Authentication Screens
 
-| Screen 1 | Screen 2 | Screen 3 |
-|----------|----------|----------|
-| ![Login](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_1.png) | ![Register](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_2.png) | ![Reset Password](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_3.png) |
+| Login | Register | Reset Password |
+|------|----------|----------------|
+| ![Login](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20181610.png) | ![Register](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20181631.png) | ![Reset](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20181639.png) |
 
 ---
 
 ### 🏢 Main App Screens
 
-| Screen 1 | Screen 2 | Screen 3 |
-|----------|----------|----------|
-| ![Home](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_4.png) | ![Details](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_5.png) | ![Categories](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_6.png) |
+| Home | Details | Screen 3 |
+|------|--------|----------|
+| ![Home](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20183000.png) | ![Details](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20183020.png) | ![S3](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20183209.png) |
 
 | Screen 4 | Screen 5 | Screen 6 |
 |----------|----------|----------|
-| ![Requests](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_7.png) | ![Tracking](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_8.png) | ![Status](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_9.png) |
+| ![S4](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20183239.png) | ![S5](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20183257.png) | ![S6](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20183326.png) |
 
 ---
 
@@ -75,7 +79,7 @@ A modern Flutter-based B2B marketplace application designed to connect businesse
 
 | Screen 1 | Screen 2 | Screen 3 | Screen 4 |
 |----------|----------|----------|----------|
-| ![Profile](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_10.png) | ![Edit](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_11.png) | ![Language](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_12.png) | ![Logout](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_13.png) |
+| ![S1](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20184820.png) | ![S2](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20184838.png) | ![S3](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20184853.png) | ![S4](B2B_Partnership_Showcase/Screen_shoots/Screenshot%202026-05-17%20184910.png) |
 
 ---
 
@@ -83,17 +87,14 @@ A modern Flutter-based B2B marketplace application designed to connect businesse
 
 | Platform | Status | Link |
 |----------|--------|------|
-| 📱 Google Play | Live 🚀 | https://play.google.com/store/apps/details?id=tiqniq.b2b.partnership.app |
+| 📱 Google Play | Live 🚀 | https://play.google.com/store/apps/details?id=tiqnia.b2b.partnership.app |
 | 🍏 App Store | Live 🚀 | https://apps.apple.com/eg/app/b2b-partnership/id6743262771?l=ar |
 
 ---
 
 ## 👨‍💻 About the Developer
 
-This project was developed by:
-
-**Mohamed Abas Mahmoud**  
-Flutter Developer
+**Mohamed Abas Mahmoud** – Flutter Developer  
 
 - 🔗 GitHub: https://github.com/mohamedAbasMahmoud  
 - 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-abas-mahmoud  
@@ -103,9 +104,9 @@ Flutter Developer
 
 ## ⭐ Notes
 
-This project was built as a real production Flutter application with a strong focus on:
+This project was built as a real production Flutter application focusing on:
 
-- Clean Architecture principles  
-- Scalable and maintainable codebase  
+- Clean Architecture  
+- Scalable codebase  
 - Performance optimization  
-- Real-world business workflows  
+- Real business workflow handling  
