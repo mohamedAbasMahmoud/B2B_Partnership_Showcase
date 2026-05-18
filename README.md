@@ -1,95 +1,111 @@
 # 🤝 B2B Partnership Showcase
 
-A modern and user-friendly mobile application designed to connect businesses, service providers, and clients through a structured B2B marketplace experience. The app allows users to explore services, browse categories, submit requests, manage applications, and follow business opportunities in a clean and professional workflow.
+A modern Flutter-based B2B marketplace application designed to connect businesses, service providers, and clients through a structured and scalable platform. The app enables users to explore services, browse categories, submit requests, manage applications, and track business opportunities through a clean and intuitive workflow.
 
-***
+---
 
 ## 👤 User Features
 
-- Browse available business categories and service providers
-- Explore business details and partnership opportunities
-- Submit service requests or apply to relevant opportunities
-- Track request and application status
-- User-friendly and clean interface
-- Multi-language support (Localization)
+- Browse business categories and service providers
+- Explore detailed business profiles and opportunities
+- Submit service requests or apply for opportunities
+- Track request and application status in real-time
+- Clean and responsive UI/UX experience
+- Multi-language support (Arabic & English)
 
-***
+---
 
 ## 🛠️ Admin Features
 
 - Manage business categories and listings
 - Review incoming requests and applications
 - Approve, reject, or organize submissions
-- Manage workflow and platform content effectively
+- Control platform content and workflow efficiently
 
-***
+---
 
 ## 🔄 App Flow
 
-1. User browses available categories and services  
-2. User opens provider or business details  
-3. User submits a request or applies to an opportunity  
-4. Admin reviews the submitted data  
-5. User gets updated with the request or application status  
+1. User browses categories and available services  
+2. User opens business or provider details  
+3. User submits a request or application  
+4. Admin reviews and processes submission  
+5. User receives status updates in the app  
 
-***
+---
 
-**Key Features**
-- Auth (Login - Register - Reset Password - OTP Validation - Profile - Edit Profile)
-- Browse Categories and Business Listings
-- Provider / Company Details
-- Request Submission & Application Flow
-- Favorites / Saved Opportunities
-- Search and Filtering
-- Request Tracking and Status Updates
-- Push Notifications
-- Multi-language Support (Arabic & English)
-- Admin Content and Request Management
+## ✨ Key Features
 
-***
+- Authentication system (Login / Register / Reset Password / OTP Verification / Profile Management)
+- Business categories & listings browsing
+- Provider and company detailed pages
+- Request & application management system
+- Favorites / Saved opportunities
+- Search and filtering system
+- Real-time status tracking
+- Push notifications
+- Multi-language support (Arabic & English)
+- Admin dashboard for content and request management
+
+---
 
 ## 🎨 App Screenshots
 
-### Authentication Screens
+### 🔐 Authentication Screens
 
-| #1 | #2 | #3 |
-| --- | --- | --- |
-|  |  |  |
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| ![Login](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_1.png) | ![Register](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_2.png) | ![Reset Password](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_3.png) |
 
-### Main App Screens
+---
 
-| #1 | #2 | #3 | #4 | #5 | #6 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+### 🏢 Main App Screens
 
-| #7 | #8 | #9 | #10 | #11 | #12 |
-| --- | --- | --- | --- | --- | --- |
-|  |  |  |  |  |  |
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| ![Home](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_4.png) | ![Details](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_5.png) | ![Categories](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_6.png) |
 
-### Settings & Profile Screens
+| Screen 4 | Screen 5 | Screen 6 |
+|----------|----------|----------|
+| ![Requests](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_7.png) | ![Tracking](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_8.png) | ![Status](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_9.png) |
 
-| #1 | #2 | #3 | #4 |
-| --- | --- | --- | --- |
-|  |  |  |  |
+---
 
-***
+### ⚙️ Settings & Profile Screens
+
+| Screen 1 | Screen 2 | Screen 3 | Screen 4 |
+|----------|----------|----------|----------|
+| ![Profile](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_10.png) | ![Edit](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_11.png) | ![Language](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_12.png) | ![Logout](B2B_Partnership_Showcase/Screen_shoots/SCREEN_NAME_13.png) |
+
+---
 
 ## 📱 Download the App
 
-| Platform    | Status | Link |
-|-------------|--------|------|
-| Google Play | **Live** 🚀 | <a href="https://play.google.com/store/apps/details?id=tiqniq.b2b.partnership.app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200" height="60" /></a> |
-| App Store   | **Live** 🚀 | <a href="https://apps.apple.com/eg/app/b2b-partnership/id6743262771?l=ar"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="200" height="60" /></a> |
+| Platform | Status | Link |
+|----------|--------|------|
+| 📱 Google Play | Live 🚀 | https://play.google.com/store/apps/details?id=tiqniq.b2b.partnership.app |
+| 🍏 App Store | Live 🚀 | https://apps.apple.com/eg/app/b2b-partnership/id6743262771?l=ar |
 
-***
+---
 
 ## 👨‍💻 About the Developer
 
-This project was developed by:  
-**Mohamed Abas Mahmoud** – Junior Flutter Developer
+This project was developed by:
 
-[ [
+**Mohamed Abas Mahmoud**  
+Flutter Developer
 
-***
+- 🔗 GitHub: https://github.com/mohamedAbasMahmoud  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mohamed-abas-mahmoud  
+- 📧 Email: mb580900@gmail.com  
 
-_Thank you for your interest in the project! Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/mohamedAbasMahmoud) for any inquiries or potential collaborations._
+---
+
+## ⭐ Notes
+
+This project was built as a real production Flutter application with a strong focus on:
+
+- Clean Architecture principles  
+- Scalable and maintainable codebase  
+- Performance optimization  
+- Real-world business workflows  
